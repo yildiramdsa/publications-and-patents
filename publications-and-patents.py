@@ -36,4 +36,4 @@ publications = [
 for pub in publications:
     st.markdown(f"- [{pub['title']}]({pub['url']})")
 
-st.info("All publications and patents were originally published under the name Alina Kurliantseva.")ß
+st.info("All publications and patents were originally published under the name Alina Kurliantseva.")
