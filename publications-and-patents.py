@@ -1,7 +1,7 @@
 import streamlit as st
 
 # App Title
-st.title("Scholarly Profile: Publication and Patent Portfolio of Alina Yildir")
+st.title("Publication and Patent Portfolio of Alina Yildir")
 
 # Section: Publications
 st.header("Publications")
