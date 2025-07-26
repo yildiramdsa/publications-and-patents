@@ -1,1 +1,1 @@
-# publications-and-patents
+# Publications and Patents
