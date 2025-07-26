@@ -1,7 +1,7 @@
 import streamlit as st
 
-# Title of the App
-st.title("Alina Yildir's Publications and Patents (APA Style)")
+# App Title
+st.title("Scholarly Profile: Publication and Patent Portfolio of Alina Yildir")
 
 # Section: Patents
 st.header("Patents")
@@ -34,5 +34,5 @@ publications = [
 for pub in publications:
     st.markdown(f"- {pub['entry']}")
 
-# Footer/note
+# Footer Note
 st.info("Note: All works were originally published under the name Alina Kurliantseva.")
