@@ -35,4 +35,4 @@ for p in patents:
     st.markdown(f"- {p['entry']}")
 
 # Footer Note
-st.info("Note: All works were originally published under the name **Kurliantseva, A. Y.**")
+st.info("All works were originally published under the name **Kurliantseva, A. Y.**")
